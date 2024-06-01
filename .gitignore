@@ -6,3 +6,4 @@ keypoint/
 datasets/
 __pycache__/
 .DS_Store
+yolov8m-pose.pt

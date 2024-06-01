@@ -28,8 +28,4 @@ https://rose1.ntu.edu.sg/dataset/actionRecognition/
 Predicting steps:  
 1. Run the application: Execute the main script `py main.py` 
 - there is a switch in the main function to predict the test videos or predict on video inputs
-- I've put some sample ntu+b videos under test_video folder
-
-
-## Question 
-If you have any question, please contact wxi33@uclive.ac.nz. (Jack Xiao)
+- Some sample videos under test_video folder
