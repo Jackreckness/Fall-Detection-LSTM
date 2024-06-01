@@ -22,10 +22,9 @@ The whole NTU+B dataset could be downloaded via (request needed):
 https://rose1.ntu.edu.sg/dataset/actionRecognition/
 
 1. python train.py keypoint # to get the keypoints from all videos under /video folder
-2. python train.py train $ to train the neural network
+2. python train.py train to train the neural network
 
 
 Predicting steps:  
 1. Run the application: Execute the main script `py main.py` 
 - there is a switch in the main function to predict the test videos or predict on video inputs
-- Some sample videos under test_video folder
